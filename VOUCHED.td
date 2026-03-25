@@ -20,3 +20,4 @@
 # "denounce" or "denounce [username]" on an issue or PR.
 
 charlenenicer
+-cheesytoday-a11y
